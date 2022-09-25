@@ -23,3 +23,10 @@ Whole Slide Images are loaded into QuPath. A medical specialist has previously p
  
 ## Training 
 I have trained a UNet Learner in FAST.AI to develop a prototype for my supervisor to use in Whole Slide Image Scanner implementation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65295655/192131582-b4efa2e5-ffd6-4bae-87eb-f3e14fc3744a.png">
+</p>
+<div align="center">
+  <b>Results</b>
+</div
